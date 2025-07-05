@@ -33,12 +33,6 @@ Business problem-solving through data
 - Boosted rental occupancy rates by 30% via data-driven pricing strategies
 - Developed Power BI dashboards for student success metrics and retention
 
-### 🎓 [EduRev AI Platform](https://github.com/WasiKhann/eduRev-FYP)  
-RAG-powered educational solution
-- Optimized backend APIs for 40% faster content delivery
-- Integrated Retrieval-Augmented Generation for real-time Q&A support
-- Collaborated with Securiti.ai under industry mentorship
-
 ---
 
 ## 🎓 Beyond Data
