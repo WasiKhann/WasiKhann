@@ -9,11 +9,17 @@ I'm a data engineer and analytics specialist passionate about building robust pi
 - 🚀 **Building**: Production-grade ETL pipelines with Python and Apache Airflow
 - 📊 **Visualizing**: Business insights in Power BI and Snowsight dashboards
 - ☁️ **Mastering**: Cloud data warehousing on Snowflake and AWS Redshift
-- 🤖 **Exploring**: AI integration for data workflows using RAG models
+- 🤖 **Exploring**: Life and all it has to offer.
 
 ---
 
 ## 🚀 Highlighted Projects
+
+### 📈 [Data Analytics Portfolio](https://github.com/WasiKhann/Data-Analytics-Portfolio)  
+Business problem-solving through data
+- Reduced e-commerce cancellation rates by 45% through root-cause analysis
+- Boosted rental occupancy rates by 30% via data-driven pricing strategies
+- Developed Power BI dashboards for student success metrics and retention
 
 ### 🌾 [AgriFlow DWH](https://github.com/WasiKhann/Agriculture-Data-Warehouse-ETL-Pipeline-Snowflake)  
 Cloud data warehouse pipeline for agricultural analytics
@@ -26,12 +32,6 @@ Production-grade content delivery pipeline
 - Built end-to-end ETL workflow with **Playwright** and **GitHub Actions**
 - Automated daily extraction of 100+ records from Notion to Email/Telegram
 - Implemented custom parsing algorithms for unstructured text transformation
-
-### 📈 [Data Analytics Portfolio](https://github.com/WasiKhann/Data-Analytics-Portfolio)  
-Business problem-solving through data
-- Reduced e-commerce cancellation rates by 45% through root-cause analysis
-- Boosted rental occupancy rates by 30% via data-driven pricing strategies
-- Developed Power BI dashboards for student success metrics and retention
 
 ---
 
