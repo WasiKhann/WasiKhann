@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Wasi Khan!
 
-I'm a data engineer and analytics specialist passionate about building robust pipelines and transforming raw data into actionable insights. I thrive on solving complex data challenges and creating scalable solutions that drive smarter business decisions.
+I'm a data and AI engineer at an IT solutions firm specializing in fintech. Proficient in building robust pipelines and transforming raw data into actionable insights. I thrive on solving complex data challenges and creating scalable solutions that drive smarter business decisions.
 
 ---
 
