@@ -56,7 +56,6 @@ I'm always open to discussing data pipelines, analytics challenges, or potential
 
 - 💼 **LinkedIn**: [Wasi Khan](https://www.linkedin.com/in/wasi-khann/)
 - 📧 **Email**: [wasitahirkhan@gmail.com](mailto:wasitahirkhan@gmail.com)
-- 🗂️ **GitHub**: [github.com/WasiKhann](https://github.com/WasiKhann)
 
 ---
 
